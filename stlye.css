@@ -1,15 +1,11 @@
-* {
-    padding: 0;
-    margin: 0;
-}
 #whole_card {
     width: 200px;
     font-family:'Times New Roman', Times, serif;
-
+    border: 0px solid gray;
     border-radius: 10px;
-
+    background-color: bisque;
     box-shadow: 1px 1px 10px gray;
-    margin: 30px;
+    margin: 3cm;
 
 }
 #title {
@@ -19,8 +15,8 @@
 }
 #bottom_part_color {
     background-color: bisque;
-    padding: 10px;
-    padding-bottom: 25px;
+    margin: 10px;
+    padding-bottom: 15px;
 }
 #paragraph {
     font-size: small;
